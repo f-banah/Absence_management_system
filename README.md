@@ -9,4 +9,4 @@ This system includes a dashboard using data vizualisation tools such as Power BI
 - PostGreSql 
 - Power BI
 
-# The attached file "Report.pdf" includes screens of the web application and detailed explanation.
+# The attached file "Report.pdf" includes screens of the system and detailed explanation.
