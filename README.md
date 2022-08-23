@@ -8,5 +8,3 @@ This system includes a dashboard using data vizualisation tools such as Power BI
 - Python 
 - PostGreSql 
 - Power BI
-
-# The attached file "Report.pdf" includes screens of the system and detailed explanation.
